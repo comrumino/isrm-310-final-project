@@ -9,6 +9,12 @@
 4. Goals for the video content:
     - Find the aha moment (maybe making it click for people the purpose and imporance of things like CVE/CWE/Top Ten Lists)
 
+## Talking Points
+1. OWASP API Security Top 10
+    - [This approach does not take the likelihood of the threat agent into account. ... Since this edition is not data-driven, prevalence results from a consensus among the team members.](https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/)
+
+
+
 # Final Project Assignment
 
 The topic of your final project - Start planning on Day 1
